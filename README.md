@@ -12,6 +12,7 @@
 
 # Architecture
 ![Technical Overview](https://github.com/Patrowl/PatrowlDocs/blob/master/images/userguide/technical-overview.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FEcoTrust1%2FPatrowlEngines.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FEcoTrust1%2FPatrowlEngines?ref=badge_shield)
 
 # Installation and deployment
 See the [Installation guide](https://github.com/Patrowl/PatrowlDocs/blob/master/installation/installation-guide.md)
@@ -21,6 +22,9 @@ See the [User guide](https://github.com/Patrowl/PatrowlDocs/blob/master/installa
 
 # License
 PatrOwl is an open source and free software released under the [AGPL](https://github.com/Patrowl/PatrowlEngines/blob/master/LICENSE) (Affero General Public License). We are committed to ensure that PatrOwl will remain a free and open source project on the long-run.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FEcoTrust1%2FPatrowlEngines.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FEcoTrust1%2FPatrowlEngines?ref=badge_large)
 
 # Updates
 Information, news and updates are regularly posted on [Patrowl.io  Twitter account](https://twitter.com/patrowl_io) and on [the  blog](https://blog.patrowl.io/).
